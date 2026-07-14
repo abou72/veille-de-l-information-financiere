@@ -1,6 +1,4 @@
 requests
 beautifulsoup4
 logging
-datetime
-et
 urljoin
